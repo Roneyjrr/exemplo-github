@@ -1,2 +1,7 @@
-# exemplo-github
- Experimentando
+# Experimentando o Git-Hub
+
+## Operações comuns
+---
+
+- Trabalhar com repositórios
+- Realizar **commits**
